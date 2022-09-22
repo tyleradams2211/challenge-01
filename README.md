@@ -1,14 +1,14 @@
 # challenge-01
 
 ## Application
-[index.html](Develop\index.html)
+[index.html](index.html)
 
 ## Description
 A website that was in need of organization, descriptive semantic containers and accessibility functions.
 
 ## Screenshots
-[SS1](Assets\c1img1.png)
-[SS2](Assets\c1img2.png)
+[SS1](assets\images\c1img1.png)
+[SS2](assets\images\c1img1.png)
 
 ## User Story
 
